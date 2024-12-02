@@ -1,0 +1,346 @@
+Disease,Symptom
+Human Prion Disease,Dementia
+Human Prion Disease,Difficulty walking
+Human Prion Disease,Muscle control loss
+Human Prion Disease,Hallucinations
+Human Prion Disease,Muscle stiffness
+Human Prion Disease,Confusion
+Human Prion Disease,Fatigue
+Human Prion Disease,Difficulty speaking
+Alzheimer's Disease,Anterogrode Amnesia
+Alzheimer's Disease,Communication problems
+Alzheimer's Disease,Global Amnesia
+Alzheimer's Disease,Muscle wasting
+Alzheimer's Disease,Aphasia
+Alzheimer's Disease,Mutism
+Alzheimer's Disease,Deucbitus Ulcers
+Alzheimer's Disease,Executive Dysfunction
+Alzheimer's Disease,Agnosia
+Alzheimer's Disease,Hypertonia
+Alzheimer's Disease,Cheyne Stokes Respiration
+Alzheimer's Disease,Apathy
+Alzheimer's Disease,Apraxia
+Alzheimer's Disease,Bradykinesia
+Alzheimer's Disease,Vegetative
+Alzheimer's Disease,Subclinical depression
+Alzheimer's Disease,BPSD
+Alzheimer's Disease,Difficulty swallowing
+Alzheimer's Disease,BADLS
+Alzheimer's Disease,Apathy
+Alzheimer's Disease,Sleep changes
+Alzheimer's Disease,Incontinence
+Amyotrophic Lateral Sclerosis (ALS),Fatigue
+Amyotrophic Lateral Sclerosis (ALS),Spasms
+Amyotrophic Lateral Sclerosis (ALS),Fasciculations
+Amyotrophic Lateral Sclerosis (ALS),Muscle Weakness
+Amyotrophic Lateral Sclerosis (ALS),Muscle Atrophy
+Amyotrophic Lateral Sclerosis (ALS),Articulation Difficulty
+Amyotrophic Lateral Sclerosis (ALS),Difficulty Swallowing
+Amyotrophic Lateral Sclerosis (ALS),Poor balance
+Amyotrophic Lateral Sclerosis (ALS),Muscle contractures
+Amyotrophic Lateral Sclerosis (ALS),Mostly paralyzed muscles
+Amyotrophic Lateral Sclerosis (ALS),Respiratory Insufficiency
+Amyotrophic Lateral Sclerosis (ALS),pseudobulbar affect
+Amyotrophic Lateral Sclerosis (ALS),Can't eat and drink
+Bell's Palsy,Headache 
+Bell's Palsy,Disordered facial muscles
+Bell's Palsy,Tearing
+Bell's Palsy,Drooling
+Bell's Palsy,Loss of taste on front 2/3 of tongue
+Bell's Palsy,Inability to close eye
+Bell's Palsy,Sensitive hearing
+Bell's Palsy,Weakness/paralysis on one side of face
+Brain Tumors,Headache
+Brain Tumors,Migraines
+Brain Tumors,Nausea
+Brain Tumors,Blurry vision 
+Brain Tumors,Loss of feeling in an arm or leg
+Brain Tumors,Poor balance
+Brain Tumors,Speech problems
+Brain Tumors,Tiredness
+Brain Tumors,Confusion
+Brain Tumors,Personality changes
+Brain Tumors,Seizures
+Brain Tumors,Vertigo
+Brain Tumors,Hunger
+Brain Tumors,Weight gain
+Cerebral Aneurysm,Nausea
+Cerebral Aneurysm,Stiff neck
+Cerebral Aneurysm,Blurred vision 
+Cerebral Aneurysm,Light sensitivity
+Cerebral Aneurysm,Seizure
+Cerebral Aneurysm,Drooping eyelid
+Cerebral Aneurysm,Loss of consciousness
+Cerebral Aneurysm,Confusion
+Cerebral Aneurysm,Extreme headache
+Cerebral Aneurysm,Pain above and behind an eye
+Cerebral Aneurysm,Dilated pupil
+Cerebral Aneurysm,Change in vision
+Cerebral Aneurysm,Numbness on one side of the face
+Epilepsy and Seizures,Confusion
+Epilepsy and Seizures,Seizures
+Epilepsy and Seizures,Stiff muscles
+Epilepsy and Seizures,Loss of consciousness
+Epilepsy and Seizures,Anxiety
+Epilepsy and Seizures,Fear
+Guillain-Barré Syndrome,Tingling
+Guillain-Barré Syndrome,Weakness
+Guillain-Barré Syndrome,Difficulty walking
+Guillain-Barré Syndrome,Facial weakness
+Guillain-Barré Syndrome,Double vision
+Guillain-Barré Syndrome,Incontinence
+Guillain-Barré Syndrome,Elevated heart rate
+Guillain-Barré Syndrome,Changed blood pressure
+Guillain-Barré Syndrome,Respiratory difficulty
+Head Injury,Headache
+Head Injury,Seizures
+Head Injury,Double vision
+Head Injury,Unequal pupil size
+Head Injury,Nausea
+Head Injury,Slurred speech
+Head Injury,Weakness
+Head Injury,Loss of balance
+Head Injury,Loss of consciousness
+Head Injury,Confusion
+Head Injury,Memory loss
+Head Injury,Difficulty concentrating
+Head Injury,Irritability
+Head Injury,Vertigo
+Head Injury,Hearing problems
+Head Injury,Anxiety
+Head Injury,Depression
+Head Injury,Mood Swings
+Head Injury,Light sensitivity
+Head Injury,Fatigue
+Head Injury,Noise sensitivity
+Hydrocephalus,Headache
+Hydrocephalus,Sluggishness
+Hydrocephalus,Loss of balance
+Hydrocephalus,Incontinence
+Hydrocephalus,Vision problems
+Hydrocephalus,Memory decline
+Hydrocephalus,Memory loss
+Hydrocephalus,Difficulty walking
+Hydrocephalus,Loss of balance
+Lumbar Disk Disease (Herniated Disk),Numbness in arms and legs
+Lumbar Disk Disease (Herniated Disk),Radiating pain
+Lumbar Disk Disease (Herniated Disk),Spasms
+Lumbar Disk Disease (Herniated Disk),Back pain
+Lumbar Disk Disease (Herniated Disk),Muscle weakness
+Lumbar Disk Disease (Herniated Disk),Incontinence
+Lumbar Disk Disease (Herniated Disk),Sciatica
+Meningitis,Fever
+Meningitis,Neck stiffness
+Meningitis,Headache
+Meningitis,Nausea
+Meningitis,Seizures
+Meningitis,Confusion
+Meningitis,Sleep changes
+Meningitis,Light sensitivity
+Meningitis,Skin rash
+Multiple Sclerosis,Vision problems
+Multiple Sclerosis,Double vision
+Multiple Sclerosis,Stiffness
+Multiple Sclerosis,Weakness
+Multiple Sclerosis,Loss of balance
+Multiple Sclerosis,Loss of coordination
+Multiple Sclerosis,Numbness
+Multiple Sclerosis,Pain
+Multiple Sclerosis,Incontinence
+Multiple Sclerosis,Fatigue
+Multiple Sclerosis, Speech problems
+Multiple Sclerosis,Intellectual impairment
+Neurocutaneous Syndromes,Loss of balance
+Neurocutaneous Syndromes,Hearing loss
+Neurocutaneous Syndromes,Loss of vision
+Neurocutaneous Syndromes,Skin rashes
+Neurocutaneous Syndromes,Numbness
+Neurocutaneous Syndromes,Muscle Weakness
+Neurocutaneous Syndromes,Vision problems
+Parkinson's Disease,Tremors
+Parkinson's Disease,Facial weakness
+Parkinson's Disease,Changes in walking
+Parkinson's Disease,Rigidity
+Parkinson's Disease,Loss of balance
+Parkinson's Disease,Poor posture
+Parkinson's Disease,Poor posture
+Parkinson's Disease,Speech changes
+Parkinson's Disease,Writing changes
+Parkinson's Disease,Depression
+Parkinson's Disease,Anxiety
+Parkinson's Disease,Sleep problems
+Parkinson's Disease,Fatigue
+Parkinson's Disease,Memory loss
+Stroke (Brain Attack),Sudden weakness
+Stroke (Brain Attack),Speech difficulties
+Stroke (Brain Attack),Facial drooping
+Stroke (Brain Attack),Vision problems
+Stroke (Brain Attack),Severe headache
+Stroke (Brain Attack),Dizziness
+Stroke (Brain Attack),Loss of balance
+Stroke (Brain Attack),Confusion
+Stroke (Brain Attack),Persistent deficits
+Stroke (Brain Attack),Cognitive impairments
+Stroke (Brain Attack),Mood swings
+Stroke (Brain Attack),Memory loss
+Stroke (Brain Attack),Language difficulties
+Stroke (Brain Attack),Swallowing problems
+Stroke (Brain Attack),Incontinence
+Stroke (Brain Attack),Fatigue
+Stroke (Brain Attack),Severe disability
+Stroke (Brain Attack),Dementia
+Stroke (Brain Attack),Incontinence
+Stroke (Brain Attack),Bedridden state
+Stroke (Brain Attack),Muscle atrophy
+Stroke (Brain Attack),Joint contractures
+Stroke (Brain Attack),Pressure ulcers
+Stroke (Brain Attack),Chronic pain
+Stroke (Brain Attack),Coma
+Stroke (Brain Attack),Organ failure
+Stroke (Brain Attack),Unresponsive state
+Stroke (Brain Attack),Labored breathing
+Stroke (Brain Attack),Low blood pressure
+Stroke (Brain Attack),Irregular heartbeat
+Stroke (Brain Attack),Cool extremities
+Stroke (Brain Attack),Loss of reflexes
+Cluster Headaches,Severe eye pain
+Cluster Headaches,Restlessness
+Cluster Headaches,Short-duration attacks
+Cluster Headaches,Nasal congestion
+Cluster Headaches,Tearing
+Cluster Headaches,Eyelid swelling
+Cluster Headaches,Facial sweating
+Cluster Headaches,Pupil constriction
+Cluster Headaches,Increased attack frequency
+Cluster Headaches,Longer attack periods
+Cluster Headaches,Seasonal patterns
+Cluster Headaches,Alcohol sensitivity
+Cluster Headaches,Daytime attacks
+Cluster Headaches,Nighttime attacks
+Cluster Headaches,Agitation
+Cluster Headaches,Pacing
+Cluster Headaches,Chronic cluster headaches
+Cluster Headaches,Short remission periods
+Cluster Headaches,Medication overuse
+Cluster Headaches,Depression
+Cluster Headaches,Anxiety
+Cluster Headaches,Sleep disturbances
+Cluster Headaches,Social withdrawal
+Tension Headaches,Mild head pain
+Tension Headaches,Tightness sensation
+Tension Headaches,Scalp tenderness
+Tension Headaches,Neck stiffness
+Tension Headaches,Shoulder tension
+Tension Headaches,Irritability
+Tension Headaches,Concentration difficulty
+Tension Headaches,Light sensitivity
+Tension Headaches,Moderate head pain
+Tension Headaches,Frequent episodes
+Tension Headaches,Muscle tightness
+Tension Headaches,Jaw clenching
+Tension Headaches,Teeth grinding
+Tension Headaches,Eye strain
+Tension Headaches,Fatigue
+Tension Headaches,Mood swings
+Tension Headaches,Chronic daily headaches
+Tension Headaches,Medication overuse
+Tension Headaches,Rebound headaches
+Tension Headaches,Depression
+Tension Headaches,Anxiety
+Tension Headaches,Insomnia
+Tension Headaches,Social isolation
+Migraine Headaches,Mood swings
+Migraine Headaches,Food cravings
+Migraine Headaches,Neck stiffness
+Migraine Headaches,Frequent yawning
+Migraine Headaches,Fatigue
+Migraine Headaches,Irritability
+Migraine Headaches,Sensitivity to light
+Migraine Headaches,Sensitivity to noise
+Migraine Headaches,Visual disturbances
+Migraine Headaches,Zigzag patterns
+Migraine Headaches,Tingling sensations
+Migraine Headaches,Numbness in limbs
+Migraine Headaches,Speech difficulties
+Migraine Headaches,Temporary blindness
+Migraine Headaches,Hearing changes
+Migraine Headaches,Muscle weakness
+Migraine Headaches,Severe head pain
+Migraine Headaches,Nausea and vomiting
+Migraine Headaches,Light sensitivity
+Migraine Headaches,Sound sensitivity
+Migraine Headaches,Pulsating headache
+Migraine Headaches,Pain worsened by activity
+Migraine Headaches,Abdominal pain
+Migraine Headaches,Loss of appetite
+Migraine Headaches,Chronic migraine episodes
+Migraine Headaches,Pain management challenges
+Migraine Headaches,Emotional distress
+Migraine Headaches,Neurological impairments
+Migraine Headaches,Dependency on medications
+Migraine Headaches,Lifestyle limitations
+Migraine Headaches,Social withdrawal
+Encephalitis,Fever and chills
+Encephalitis,Persistent headache
+Encephalitis,Muscle aches
+Encephalitis,Fatigue
+Encephalitis,Joint pain
+Encephalitis,Irritability
+Encephalitis,Sensitivity to light
+Encephalitis,Nausea
+Encephalitis,Seizures
+Encephalitis,Hallucinations
+Encephalitis,Speech difficulties
+Encephalitis,Confusion
+Encephalitis,Memory problems
+Encephalitis,Drowsiness
+Encephalitis,Behavioral changes
+Encephalitis,Sensory disturbances
+Encephalitis,Paralysis
+Encephalitis,Cognitive impairments
+Encephalitis,Coma
+Encephalitis,Muscle stiffness
+Encephalitis,Respiratory failure
+Encephalitis,Neurological decline
+Encephalitis,Difficulty swallowing
+Encephalitis,Psychosis
+Encephalitis,Multi-organ failure
+Encephalitis,Persistent seizures
+Encephalitis,Loss of consciousness
+Encephalitis,Unresponsiveness
+Encephalitis,Heart failure
+Encephalitis,Circulatory collapse
+Encephalitis,Profound weakness
+Encephalitis,Life-support dependency
+Septicemia,High fever
+Septicemia,Shivering
+Septicemia,Rapid heartbeat
+Septicemia,Rapid breathing
+Septicemia,Skin rashes
+Septicemia,Extreme fatigue
+Septicemia,Confusion
+Septicemia,Sweating
+Septicemia,Low blood pressure
+Septicemia,Decreased urine output
+Septicemia,Shortness of breath
+Septicemia,Bluish skin
+Septicemia,Abdominal pain
+Septicemia,Persistent fever
+Septicemia,Increased weakness
+Septicemia,Organ dysfunction
+Septicemia,Organ failure
+Septicemia,Severe hypotension
+Septicemia,Disseminated clotting
+Septicemia,Respiratory distress
+Septicemia,Liver dysfunction
+Septicemia,Kidney failure
+Septicemia,Blood circulation collapse
+Septicemia,Unconsciousness
+Septicemia,Septic shock
+Septicemia,Irreversible organ failure
+Septicemia,Circulatory shutdown
+Septicemia,Labored breathing
+Septicemia,Severe infections
+Septicemia,Unresponsiveness
+Septicemia,Multi-organ collapse
+Septicemia,Loss of pulse
