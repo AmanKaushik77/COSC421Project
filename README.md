@@ -20,6 +20,10 @@ The problem we are tackling involves the challenge of diagnosing neurological di
 
 - Can the network reveal clusters of diseases that are frequently confounded and contain symptomatic overlap?
 
+- Why is PageRank important for understanding symptom importance in the network?
+
+- How does the relationship between diseases and symptoms in the network reveal patterns of co-occurrence and diagnostic challenges?
+
 **Data Collection:**
 
 We plan to use publicly available datasets from Kaggle that focus on neurological disorders, symptoms, and possibly patient demographics.
